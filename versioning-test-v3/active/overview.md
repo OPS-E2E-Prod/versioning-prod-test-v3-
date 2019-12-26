@@ -18,24 +18,24 @@ This Overview should display for the following monikers:
 
 ::: moniker range="netcore-2.0"
 
-* [test client](#test-client)
-* [test client 2.0](#netcore-20)
+* [net core](#test-client)
+* [net core 2.0](#netcore-20)
 
 ## Test Client
 
 This region applies only to `netcore-2.0`.
 
-## Test Client 2.0
+## Net core 2.0
 
 This region applies only to `netcore-2.0`.
 
 ::: moniker-end
 
-::: moniker range="> netcore-2.0 || > netframework-1.0"
+::: moniker range="> netcore-2.0 || > netframework-1.1"
 
-* [test client](#test-client)
+* [net core](#test-client)
 
-## Test Client
+## Net core
 
 This section applies only to `netcore-3.0` and `netframework-2.0`;
 

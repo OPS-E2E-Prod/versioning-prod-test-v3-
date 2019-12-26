@@ -1,7 +1,7 @@
 ---
 title: Quick Start 1 (Active)!
 author: opstest2
-monikerRange: 'netcore-2.0 || netframework-1.0'
+monikerRange: 'netcore-2.0 || netframework-1.1'
 ---
 
 # Quick Start 1 (Active)!
@@ -9,4 +9,4 @@ monikerRange: 'netcore-2.0 || netframework-1.0'
 This content should display for the following monikers:
 
 * `netcore-2.0`
-* `netframework-1.0`
+* `netframework-1.1`
