@@ -1,7 +1,7 @@
 ---
 title: Overview (Active)!
 author: opstest2
-monikerRange: 'netcore-2.0 || netcore-2.0 || netframework-2.0'
+monikerRange: 'netcore-2.0 || netcore-3.0 || netframework-2.0'
 ---
 
 # Overview (Active)!
@@ -18,10 +18,10 @@ This Overview should display for the following monikers:
 
 ::: moniker range="netcore-2.0"
 
-* [net core](#test-client)
-* [net core 2.0](#netcore-20)
+* [net core](#net-core)
+* [net core 2.0](#net-core-20)
 
-## Test Client
+## Net core
 
 This region applies only to `netcore-2.0`.
 
@@ -33,7 +33,7 @@ This region applies only to `netcore-2.0`.
 
 ::: moniker range="> netcore-2.0 || > netframework-1.1"
 
-* [net core](#test-client)
+* [net core](#net-core)
 
 ## Net core
 
