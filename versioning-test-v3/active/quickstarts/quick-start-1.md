@@ -1,12 +1,12 @@
 ---
 title: Quick Start 1 (Active)!
 author: opstest2
-monikerRange: 'test-client-2.0 || test-server-1.0'
+monikerRange: 'netcore-2.0 || netframework-1.0'
 ---
 
 # Quick Start 1 (Active)!
 
 This content should display for the following monikers:
 
-* `test-client-2.0`
-* `test-server-1.0`
+* `netcore-2.0`
+* `netframework-1.0`

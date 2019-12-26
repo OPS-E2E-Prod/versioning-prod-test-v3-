@@ -1,7 +1,7 @@
 ---
 title: Overview (Active)!
 author: opstest2
-monikerRange: 'test-client-2.0 || test-client-2.0 || test-server-2.0'
+monikerRange: 'netcore-2.0 || netcore-2.0 || netframework-2.0'
 ---
 
 # Overview (Active)!
@@ -12,32 +12,32 @@ Welcome to the overview page! Please enjoy this overview.
 
 This Overview should display for the following monikers:
 
-* `test-client-2.0`
-* `test-client-3.0`
-* `test-server-2.0`
+* `netcore-2.0`
+* `netcore-3.0`
+* `netframework-2.0`
 
-::: moniker range="test-client-2.0"
+::: moniker range="netcore-2.0"
 
 * [test client](#test-client)
-* [test client 2.0](#test-client-20)
+* [test client 2.0](#netcore-20)
 
 ## Test Client
 
-This region applies only to `test-client-2.0`.
+This region applies only to `netcore-2.0`.
 
 ## Test Client 2.0
 
-This region applies only to `test-client-2.0`.
+This region applies only to `netcore-2.0`.
 
 ::: moniker-end
 
-::: moniker range="> test-client-2.0 || > test-server-1.0"
+::: moniker range="> netcore-2.0 || > netframework-1.0"
 
 * [test client](#test-client)
 
 ## Test Client
 
-This section applies only to `test-client-3.0` and `test-server-2.0`;
+This section applies only to `netcore-3.0` and `netframework-2.0`;
 
 ::: moniker-end
 

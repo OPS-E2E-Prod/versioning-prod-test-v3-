@@ -7,5 +7,5 @@ author: opstest2
 
 This content should display for the following monikers:
 
-* `test-client-1.0`
-* `test-client-1.1`
+* `netcore-1.0`
+* `netcore-1.1`

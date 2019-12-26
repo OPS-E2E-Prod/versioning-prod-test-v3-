@@ -8,8 +8,8 @@
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [
-        "< test-client-2.0",
-        ">= test-client-2.0 || test-server-1.0 || test-server-2.0"
+        "< netcore-2.0",
+        ">= netcore-2.0 || netframework-1.1 || netframework-2.0"
       ],
       "open_to_public_contributors": true,
       "type_mapping": {

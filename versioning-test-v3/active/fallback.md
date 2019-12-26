@@ -1,15 +1,15 @@
 ---
 title: Fallback (Active)!
 author: opstest2
-monikerRange: 'test-client-2.0 || test-server-1.0'
+monikerRange: 'netcore-2.0 || netframework-1.0'
 ---
 
 # Fallback (Active)!
 
 This content should display for the following monikers:
 
-* `test-client-1.1`
-* `test-client-2.0`
-* `test-client-3.0`
-* `test-server-1.0`
-* `test-server-2.0`
+* `netcore-1.1`
+* `netcore-2.0`
+* `netcore-3.0`
+* `netframework-1.0`
+* `netframework-2.0`
