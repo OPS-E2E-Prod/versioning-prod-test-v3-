@@ -83,6 +83,10 @@
       "active": {
         "dest": "active",
         "moniker_range": ">= netcore-2.0 || netframework-1.1 || netframework-2.0"
+      },
+	  "latest": {
+        "dest": "latest",
+        "moniker_range": "netframework-3.0 || netframework-4.0"
       }
     }
   }
