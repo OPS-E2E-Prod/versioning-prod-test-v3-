@@ -36,6 +36,14 @@
         ],
         "group": "active",
         "src": "active"
+      },
+      {
+        "files": [
+          "toc.yml",
+          "fallback.md"
+        ],
+        "group": "latest",
+        "src": "latest"
       }
     ],
     "resource": [
