@@ -1,7 +1,7 @@
 ---
 title: Overview (Active)!
 author: opstest2
-monikerRange: 'netcore-2.0 || netcore-3.0 || netframework-2.0'
+monikerRange: 'netcore-2.0 || netframework-2.0'
 ---
 
 # Overview (Active)!
