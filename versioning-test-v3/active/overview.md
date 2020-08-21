@@ -1,6 +1,6 @@
 ---
 title: Overview (Active)!
-description: Overview (Active)! of the content should display for the monikerRange: 'netcore-2.0 || netframework-2.0'
+description: Overview (Active)! of the content should display for the moniker Range as 'netcore-2.0 || netframework-2.0'
 author: opstest2
 monikerRange: 'netcore-2.0 || netframework-2.0'
 ---

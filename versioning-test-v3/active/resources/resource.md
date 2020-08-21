@@ -1,6 +1,6 @@
 ---
 title: Resource (Active)!
-description: Resource (Active)! content should display for the monikerRange: '>= netcore-2.0 || netframework-1.1 || netframework-2.0'
+description: Resource (Active)! content should display for the moniker Range as '>= netcore-2.0 || netframework-1.1 || netframework-2.0'
 author: opstest2
 ---
 
