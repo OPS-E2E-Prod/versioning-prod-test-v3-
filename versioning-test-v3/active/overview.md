@@ -35,7 +35,7 @@ This region applies only to `netcore-2.0`.
 
 * [net core](#net-core)
 
-## Net core
+## Net core 3.0
 
 This section applies only to `netcore-3.0` and `netframework-2.0`;
 
