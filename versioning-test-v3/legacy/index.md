@@ -1,5 +1,6 @@
 ---
 title: Welcome to Versioning (Legacy)!
+description: Welcome to Versioning (Legacy)! of the content should display for the moniker Range as '< netcore-2.0'
 author: opstest2
 ---
 

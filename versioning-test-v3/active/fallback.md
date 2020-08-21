@@ -1,5 +1,6 @@
 ---
 title: Fallback (Active)!
+description: Fallback (Active)! of the content should display for the monikerRange: 'netcore-2.0 || netframework-1.1'
 author: opstest2
 monikerRange: 'netcore-2.0 || netframework-1.1'
 ---

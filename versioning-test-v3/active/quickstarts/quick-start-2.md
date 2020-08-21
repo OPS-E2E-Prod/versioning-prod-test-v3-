@@ -1,5 +1,6 @@
 ---
 title: Quick Start 2 (Active)!
+description: Quick Start 2 (Active)! of the content should display for the monikerRange: 'netcore-3.0 || netframework-2.0'
 author: opstest2
 monikerRange: 'netcore-3.0 || netframework-2.0'
 ---
