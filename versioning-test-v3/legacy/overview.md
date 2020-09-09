@@ -2,6 +2,8 @@
 title: Overview (Legacy)!
 description: Overview (Legacy)! of the versioning content should display for the following moniker Range as '< netcore-2.0'
 author: opstest2
+ms.author: dotnetcontent
+ms.prod: .net-core
 ---
 
 # Overview (Legacy)!
