@@ -1,0 +1,12 @@
+{
+  "redirections": [
+    {
+      "source_path": "versioning-test-v3/legacy/resources/resource.md",
+      "redirect_url": "/archive/versioning-prod-test-v3-archive/resources/resource",
+      "redirect_document_id": false,
+      "monikers": [
+        "netcore-1.0"
+      ]
+    }
+  ]
+}
