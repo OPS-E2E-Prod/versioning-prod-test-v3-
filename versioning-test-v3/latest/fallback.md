@@ -8,7 +8,6 @@ ms.prod: .net-core
 
 # Fallback (Latest)!
 
-Upadte content(2/7/2022) to resolve Validation failed: cannot have more than 100 pull requests with the same head_sha.
 This content should display for the following monikers:
 
 * `netframework-3.0`
